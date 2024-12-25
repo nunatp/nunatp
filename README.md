@@ -3,7 +3,6 @@
 I am an Information Technology for Digital Industry student at the Faculty of Informatics, Burapha University. I worked as an IT support assistant at the university's faculty for almost a year. During that time, I gained valuable experience and learned various aspects of the job. I am eager to continue learning and further develop my skills.
 
 - 🌍  I'm based in Chonburi, Thailand
-- 🖥️  See my portfolio at 
 - ✉️  You can contact me at 65160024@go.buu.ac.th (University Mail) or tpralao.mail@gamil.com (Mail for Any)
 - 🧠  I'm learning a new Developer Tools & Web design
 

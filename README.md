@@ -33,7 +33,7 @@ Developer Tools & Web Design
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="45" height="45"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" alt="premierepro" width="45" height="45"/> 
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="canva" width="45" height="45"/> 
-  <img src="https://img.icons8.com/color/48/000000/capcut.png" alt="capcut" width="45" height="45"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/CapCut_Logo.svg/1200px-CapCut_Logo.svg.png" alt="CapCut" width="45" height="45"/>
 </p>
 
 ---

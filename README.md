@@ -43,3 +43,7 @@ Developer Tools & Web Design
 - [Work Samples](https://drive.google.com/drive/folders/1wKW4jqUTYxEBPL4A_UQ2zBXheYJE7oT4?usp=drive_link)
 - [Assigned tasks during class](https://drive.google.com/drive/folders/1JdhZsOh_ROf4iQXV1qqAD0sxDxyjy56s?usp=drive_link)
 - [Certificates](https://drive.google.com/drive/folders/1rxWmcaCsfA5ley5SAJDEkOeoIWcmI23h?usp=drive_link)
+
+---
+## 🔗 My Social Media
+- Please Click the Link: [All Social Media](https://instabio.cc/nunaSIPR26)
